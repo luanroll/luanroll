@@ -58,8 +58,8 @@ Meu foco recente tem sido o desenvolvimento **Back-end com Python/Django**, mode
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?luanroll=luanroll&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?luanroll=luanroll&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanroll&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanroll&layout=compact&theme=tokyonight" />
 </p>
 
 ---
