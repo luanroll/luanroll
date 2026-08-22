@@ -15,7 +15,7 @@ Meu foco recente tem sido o desenvolvimento **Back-end com Python/Django**, mode
   <a href="https://github.com/luanroll">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/luan-rolins-santos-07b804393">
+  <a href="https://linkedin.com/in/luanroll">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:=luanroll1103@outlook.com">
