@@ -1,6 +1,6 @@
 # 👨‍💻 Luan Rolins
 
-🚀 **Estudante de Engenharia de Software | Candidato a Desenvolvedor Back-end**  
+🚀 **Estudante de Engenharia de Software**  
 🇧🇷 Goiás, Brasil
 
 Sou um estudante de tecnologia apaixonado por arquitetura de software, resolução lógica de problemas e criação de sistemas que geram valor real. Atualmente, busco uma oportunidade de estágio onde eu contribuir com grandes projetos e me desenvolver profissionalmente.
