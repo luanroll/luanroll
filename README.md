@@ -1,11 +1,13 @@
 # 👨‍💻 Luan Rolins
 
-🚀 **Estudante de Engenharia de Software**  
+🚀 **Estudante de Engenharia de Software | Dados & Tecnologia**  
 🇧🇷 Goiás, Brasil
 
-Sou um estudante de tecnologia apaixonado por arquitetura de software, resolução lógica de problemas e criação de sistemas que geram valor real. Atualmente, busco uma oportunidade de estágio onde eu contribuir com grandes projetos e me desenvolver profissionalmente.
+Sou estudante de Engenharia de Software, com formação anterior em Administração, atualmente direcionando minha carreira para a área de Dados, com foco em Engenharia de Dados e análise de dados.
 
-Meu foco recente tem sido o desenvolvimento **Back-end com Python/Django**, modelagem de bancos de dados relacionais e a integração de sistemas web com interfaces funcionais, limpas e responsivas.
+Tenho estudado e desenvolvido projetos utilizando Python, SQL, bancos de dados relacionais e modelagem de dados, além de estar aprofundando meus conhecimentos em Apache Airflow, Power BI e conceitos de Data Warehouse.
+
+Busco minha primeira oportunidade profissional na área de Dados, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir na construção de soluções orientadas a dados.
 
 ---
 
@@ -27,37 +29,34 @@ Meu foco recente tem sido o desenvolvimento **Back-end com Python/Django**, mode
 
 ## 🧠 O que eu faço & O que estou aprendendo
 
--   🏗️ **Desenvolvimento Web:** Construção de aplicações utilizando a arquitetura MVT (Model-View-Template).
--   ⚙️ **Lógica de Negócios:** Tradução de regras do mundo real para o back-end (ex: algoritmos de prioridade automatizada em sistemas de recepção).
--   🗄️ **Banco de Dados:** Modelagem de dados relacionais e domínio de integração via ORM.
--   🎨 **Implementação de UI/UX:** Criação de interfaces modernas e centradas no usuário utilizando CSS Flexbox e padrões de design limpo.
+-   🐍 **Python:** Desenvolvimento de soluções, manipulação de dados e implementação de regras de negócio.
+-   🗄️ **SQL & Banco de Dados:** Consultas SQL, bancos de dados relacionais, modelagem de dados, relacionamentos e integridade dos dados.
+-   🔄 **Engenharia de Dados:** Estudando conceitos de pipelines, ETL/ELT, Apache Airflow e Data Warehouse.
+-   📊 **Dados & Analytics:** Estudando Power BI, análise e organização de dados para geração de informações úteis ao negócio.
+-   🔧 **Engenharia de Software:** Git, GitHub, APIs REST, lógica de programação, Programação Orientada a Objetos e Clean Code.
+-   🌐 **Conhecimentos complementares:** Django • JavaScript • HTML5 • CSS3 • Figma
 
 ---
 
 ## 🛠️ Minhas Ferramentas (Tech Stack)
 
-### Linguagens & Frameworks
+### Linguagens & Dados
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-### Front-end & Design
+### Banco de Dados & Analytics
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Banco de Dados & Versionamento
+### Engenharia de Dados & Versionamento
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![APIs REST](https://img.shields.io/badge/REST_API-%E2%9C%93-lightgrey?style=for-the-badge)
+![APACHE AIRFLOW](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 
 ---
 
-> _"A boa engenharia de software não é apenas sobre escrever código. 
-> É sobre entender o problema, modelar uma solução lógica e entregar valor através de uma arquitetura sólida."_
-
----
-
-⭐ Aberto para oportunidades de estágio e novos desafios técnicos!
+⭐ Aberto a oportunidades de estágio na área de Dados.
